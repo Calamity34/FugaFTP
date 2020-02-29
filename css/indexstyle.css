@@ -10,7 +10,7 @@ p {
 	font-style: bold;
 }
 body {
-background-image: url('background.jpg');
+background-image: url('../images/background.jpg');
 background-attachment: fixed;
 background-size: cover;
 }
