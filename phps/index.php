@@ -1,3 +1,3 @@
 <?php
-  include_once "phps/chat.php"
+  include_once "chat.php"
 ?>

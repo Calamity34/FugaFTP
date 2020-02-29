@@ -1,0 +1,18 @@
+.scrollings {
+    height: 200px; /* высота нашего блока */
+    width: 200px; /* ширина нашего блока */
+    background: #fff; /* цвет фона, белый */
+    border: 1px solid #C1C1C1; /* размер и цвет границы блока */
+    overflow-x: scroll; /* прокрутка по горизонтали */
+    overflow-y: scroll; /* прокрутка по вертикали */
+    }
+h1.main-h{
+    font-weight: bolder;
+    color: #d6c424;
+}
+body {
+    color: #2ec6e8;
+    background-image: url("../images/chatgradient.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
