@@ -9,7 +9,7 @@
       </a>
     </header>
     <meta http-equiv=Content-Type content="text/html;charset=utf-8">
-    <link rel="stylesheet", type="text/css", href="../css/phpchatstyle.css">
+    <link rel="stylesheet" type="text/css" href="../css/phpchatstyle.css">
     <link rel="icon" href="..\images\fuga1.png" type="image/x-icon">
     <link rel="shortcut icon" href="..\images\fuga1.png" type="image/x-icon">
     <h1 class = "main-h">Test Chat</h1>
