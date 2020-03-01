@@ -1,4 +1,4 @@
-.scrollings {
+div.scrollings {
     height: 200px; /* высота нашего блока */
     width: 200px; /* ширина нашего блока */
     background: #fff; /* цвет фона, белый */
