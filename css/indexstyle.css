@@ -5,7 +5,7 @@ p {
 	font-size: 30px;
    }
 body {
-background-image: url('../images/background.jpg');
+background-image: url('../images/indexbackground.jpg');
 background-attachment: fixed;
 background-size: cover;
 }
