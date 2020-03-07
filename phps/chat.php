@@ -22,7 +22,7 @@
       <input type="text" name="chat" id="chat" value="Message...">
     </form>
     <?php
-echo $_POST['login'];
+      echo $_POST['chat']; 
     ?>
   </body>
 </html>
