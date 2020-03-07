@@ -1,11 +1,10 @@
 p {
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	font-style: bold;
-	-webkit-text-stroke: 0px rgb(131, 131, 131);
 	font-size: 30px;
-   }
+}
 body {
-background-image: url('../images/indexbackground.jpg');
-background-attachment: fixed;
-background-size: cover;
+	background-image: url('../images/indexbackground.jpg');
+	background-attachment: fixed;
+	background-size: cover;
 }
