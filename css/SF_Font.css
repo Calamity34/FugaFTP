@@ -1,0 +1,120 @@
+/* ill leave this one */
+@font-face {
+    font-family: 'San Francisco Text';
+    src: url('http://fuga.is-best.net/font/SFUIText-LightItalic.eot');
+    src: local('SF UI Text LightItalic'), local('SFUIText-LightItalic'),
+        url('http://fuga.is-best.net/font/SFUIText-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIText-LightItalic.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIText-LightItalic.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIText-LightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Regular.eot');
+    src: local('San Francisco Regular'), local('SFUIDisplay-Regular'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Regular.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Regular.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Ultralight.eot');
+    src: local('San Francisco Ultralight'), local('SFUIDisplay-Ultralight'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Ultralight.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Ultralight.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Ultralight.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Ultralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Heavy.eot');
+    src: local('San Francisco Heavy'), local('SFUIDisplay-Heavy'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Heavy.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Heavy.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Black.eot');
+    src: local('San Francisco Black'), local('SFUIDisplay-Black'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Black.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Black.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Black.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Semibold.eot');
+    src: local('San Francisco Semibold'), local('SFUIDisplay-Semibold'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Semibold.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Semibold.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Bold.eot');
+    src: local('San Francisco Bold'), local('SFUIDisplay-Bold'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Bold.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Bold.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Thin.eot');
+    src: local('San Francisco Thin'), local('SFUIDisplay-Thin'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Thin.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Thin.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Medium.eot');
+    src: local('San Francisco Medium'), local('SFUIDisplay-Medium'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Medium.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Medium.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'San Francisco';
+    src: url('http://fuga.is-best.net/font/SFUIDisplay-Light.eot');
+    src: local('San Francisco Light'), local('SFUIDisplay-Light'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Light.woff2') format('woff2'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Light.woff') format('woff'),
+        url('http://fuga.is-best.net/font/SFUIDisplay-Light.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
