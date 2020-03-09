@@ -1,2 +1,0 @@
-1. this is a file for fixing the repo, change when needed
-2. full sync is going. 
