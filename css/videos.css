@@ -16,3 +16,15 @@ a.vidlink:visited {
     background-color: transparent;
     text-decoration: none;
 }
+.back {
+    font-family: 'San Francisco';
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.back:visited {
+    color: rgb(19, 34, 29);
+    background-color: transparent;
+    text-decoration: none;
+}
